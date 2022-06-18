@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = subhronil11@gmail.com
+	name = Subhronil Chaudhuri
